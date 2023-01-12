@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c0272d54c35b9c43b61308606b6b70d, type: 3}
+  m_Name: Skin Pass
+  m_EditorClassIdentifier: 
+  processors:
+  - {fileID: 11400000, guid: d53c5237297df4049948489a19db3997, type: 2}
+  - {fileID: 11400000, guid: c75de8f9eea688e4ca9e61c91bbcd941, type: 2}
+  - {fileID: 11400000, guid: 4715f4f5807f3fd4593e2f7ae3bae995, type: 2}
+  - {fileID: 11400000, guid: 9eafbe85bd2912c40992099f86282997, type: 2}
+  - {fileID: 11400000, guid: de5369ad16a7da14b8dd279543ef937f, type: 2}
+  - {fileID: 11400000, guid: 3c6d25e1fc5d00c469672acf1607ccb9, type: 2}
+  - {fileID: 11400000, guid: 1d4b50cd0ef393e46af44a6e6dc1b1dd, type: 2}
+  - {fileID: 11400000, guid: f403526b0e01b4f49af86da62191cb00, type: 2}
+  - {fileID: 11400000, guid: 7ccae69416bf6014da76cea45f149dfa, type: 2}
+  - {fileID: 11400000, guid: 3de27d5316f97ea48b9628ab11f22c55, type: 2}
